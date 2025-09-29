@@ -10,6 +10,17 @@ A program which intakes current official car crash reports from New York City an
 
 ## How to run this program
 ```
-pip install --upgrade streamlit
+git clone https://github.com/vishakhsurendran/NYC-Car-Crash-Data-Visualization.git
+cd NYC-Car-Crash-Data-Visualization
+
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+
+# Windows (PowerShell)
+python -m venv venv
+.\venv\Scripts\activate
+
+pip install -r requirements.txt
 streamlit run app.py
 ```
