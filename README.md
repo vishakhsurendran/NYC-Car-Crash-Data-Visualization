@@ -1,4 +1,4 @@
-# NYC-Car-Crash-Data-Visualization
+# NYC Crash Analytics
 A program which intakes current official car crash reports from New York City and generates visualizations with the intent of showcasing where improvements to infrastructure may need to be made. This is an improved version of my Collision-Data-Analysis project. Data provided by the City of New York. 
 
 ## Demo Images
